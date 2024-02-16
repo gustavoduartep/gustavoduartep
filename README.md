@@ -21,23 +21,12 @@ _With a solid foundation in Marketing and a deep understanding of Software Engin
 
 ## Habilidades e Tecnologias
 
-<table text-align="bottom">
-  <tr>
-    <td>
-      <ul>
-        <li> Programming Languages: C#, JavaScript, Python</li>
-        <li> Web Development: HTML, CSS, Bootstrap, Flask</li>
-        <li>Database: SQL Server, SQLAlchemy</li>
-        <li>Version Control Tools: Git</li>
-        <li>Tests automation: Cypress, Selenium</li>
-        <li>Design: Figma, Photoshop, Illustrator</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoduartep&theme=dark">
-    </td>
-  </tr>
-</table>
+- Programming Languages: C#, JavaScript, Python
+- Web Development: HTML, CSS, Bootstrap, Flask
+- Database: SQL Server, SQLAlchemy
+- Tests automation: Cypress, Selenium
+- Version Control Tools: Git
+- Design: Figma, Photoshop, Illustrator
 
 ## Contato
 

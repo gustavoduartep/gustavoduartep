@@ -1,6 +1,6 @@
 ### Hi! I'm Gustavo!
 
-![](/assets/header-readme-gustavoduartep.png "This is my GitHub Profile! Welcome!")
+![](/assets/header-readme-gustavoduartep-2025.png "This is my GitHub Profile! Welcome!")
 
 ![](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
